@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44dd3554-06fb-42db-9704-966ddf8b8c2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution26.java" afterDir="false" />
+    <list default="true" id="44dd3554-06fb-42db-9704-966ddf8b8c2c" name="Changes" comment="26 Complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Solution26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/baseline/solution26.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise29/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise29/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -115,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1633017818460</updated>
     </task>
+    <task id="LOCAL-00001" summary="26 start">
+      <created>1633024351509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633024351509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="26 start" />
+    <option name="LAST_COMMIT_MESSAGE" value="26 start" />
   </component>
 </project>
