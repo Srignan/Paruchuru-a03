@@ -5,10 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dde66e5-c25b-4c97-81e5-804528124ada" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Solution34Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise35/src/main/java/baseline/Solution35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise37/src/main/java/baseline/Solution37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise38/src/main/java/baseline/Solution38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise33/src/main/java/baseline/Solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise33/src/main/java/baseline/Solution33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Solution34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +78,37 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Exercise34" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Exercise34" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Exercise34" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,15 +121,46 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1yw2UiKrjsNpamhM0pFx7kDxwHw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Exercise34 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Exercise34 [run]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,5 +184,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
