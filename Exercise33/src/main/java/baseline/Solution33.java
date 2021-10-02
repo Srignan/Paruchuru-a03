@@ -11,16 +11,36 @@ import java.util.Random;
 
 public class Solution33 {
     //void question()
-    //{State scanner
-    // print "Whats your Question?"
-    //scan.nextline}
+    public static void question()
+            //{State scanner
+            // print "Whats your Question?"
+            //scan.nextLine}
+    {
+        Scanner input = new Scanner(System.in);
+        System.out.println("What's your question?");
+        input.nextLine();
+    }
+    public static void main(String[] args)
+    {
+        //void main (String[] args)
+        // String [] responses = yes, no, maybe, ask again later
+        String[] responses = {"Yes", "No", "Maybe", "Ask again later"};
 
-    //void main (String[] args)
-    // String [] responses = yes, no, maybe, ask again later
+        Random random = new Random();
 
-    //Call question
+        //Call question
+        question();
 
-    // int randomresponse = random.nextInt
-    // String response = responses[RandomResponse]
-    //print response
+        // int randomResponse = random.nextInt
+        int Response = random.nextInt(responses.length);
+
+        // String response = responses[RandomResponse]
+        String response = responses[Response];
+
+        //print response
+        System.out.println();
+        System.out.println(response);
+    }
 }
+
+//Didn't create a test case for this as scan does not impact output and output is random print string out of four
