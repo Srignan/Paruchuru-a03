@@ -1,17 +1,20 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 25 Solutions
+ *  Copyright 2021 first_name last_name
+ */
+
 package baseline;
 
 import java.util.Scanner;
 public class Solution25
 {
+    public static void main(String[] args)
     {
-        //main public static void (String [] args)
-        //String str
-        //State scanner
-        //print "Enter password"
-        // scan user input; input.nextline
-        //strength of pass obj equals new strength of pass()
-        //String ans = obj.passwordValidator(str)
-        //print answer
-
+        String str;
+        Scanner input = new Scanner(System.in); //State scanner
+        System.out.print("Enter Password: ");
+        str = input.nextLine();  // scan user input; input.nextLine
+        String answer = strengthofpass.passwordValidator(str);  //String ans = obj.passwordValidator(str)
+        System.out.println(answer); //print answer
     }
 }

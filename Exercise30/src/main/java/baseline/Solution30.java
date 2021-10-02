@@ -17,9 +17,11 @@ public class Solution30 {
             for(int j=1;j<=12;j++)
             {
                 //{(print i*j +  )
-                System.out.print((i*j)+"  ");
+               System.out.printf("%6d",i*j);
             }
             System.out.println();
         }
     }
 }
+
+//Didn't make a test file as there is only one output.
