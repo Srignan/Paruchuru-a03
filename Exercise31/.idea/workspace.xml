@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22e78a12-05f6-422e-af43-693b53fe4679" name="Changes" comment="31 Complete" />
+    <list default="true" id="22e78a12-05f6-422e-af43-693b53fe4679" name="Changes" comment="31 Complete">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Solution31Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise30/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise30/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise33/src/main/java/baseline/Solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise33/src/main/java/baseline/Solution33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise34/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise34/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

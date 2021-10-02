@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dde66e5-c25b-4c97-81e5-804528124ada" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Exercise27/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise27/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise30/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise30/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise31/src/test/java/Solution31Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise30/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise30/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise33/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise33/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise33/src/main/java/baseline/Solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise33/src/main/java/baseline/Solution33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
