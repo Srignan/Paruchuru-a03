@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44dd3554-06fb-42db-9704-966ddf8b8c2c" name="Changes" comment="26 Complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Solution26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/solution26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise29/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise29/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633024351509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="26 Complete">
+      <created>1633025172742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633025172742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +142,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="26 start" />
-    <option name="LAST_COMMIT_MESSAGE" value="26 start" />
+    <MESSAGE value="26 Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="26 Complete" />
   </component>
 </project>
