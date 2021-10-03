@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc4ae743-3378-45f9-adf7-d7a8abc6e225" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Solution38Test.java" afterDir="false" />
+    <list default="true" id="dc4ae743-3378-45f9-adf7-d7a8abc6e225" name="Changes" comment="38 Complete">
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Records.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/src/test/java/Solution39Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Solution38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Solution39.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Solution39.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +121,21 @@
       <option name="presentableId" value="Default" />
       <updated>1633200741634</updated>
     </task>
+    <task id="LOCAL-00001" summary="38 Start">
+      <created>1633242769930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633242769930</updated>
+    </task>
+    <task id="LOCAL-00002" summary="38 Complete">
+      <created>1633244722806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633244722806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,8 +148,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="38 Start" />
+    <MESSAGE value="38 Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="38 Complete" />
   </component>
 </project>
