@@ -13,9 +13,9 @@ public class Solution24Test {
     @Test
     void isAnagram() {
         var app = new Solution24();
-        boolean actualT1 = app.isAnagram("note", "tone");
+        boolean actualT1 = Solution24.isAnagram("note", "tone");
         assertTrue(actualT1);
-        boolean actualT2 = app.isAnagram("note", "tome");
+        boolean actualT2 = Solution24.isAnagram("note", "tome");
         assertFalse(actualT2);
     }
 }
