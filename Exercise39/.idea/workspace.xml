@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a534e46c-f303-422e-a5e6-7d779e7cf961" name="Changes" comment="39 Complete">
-      <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise40/src/main/java/baseline/Records.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise40/src/test/java/Solution40Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/src/main/java/baseline/GuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/src/test/java/Solution32Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise32/src/main/java/baseline/Solution32.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/src/main/java/baseline/Solution32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise40/src/main/java/baseline/Solution40.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise40/src/main/java/baseline/Solution40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise40/src/main/java/baseline/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise40/src/main/java/baseline/Records.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
