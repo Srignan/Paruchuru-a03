@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Solution24 {
     // Create boolean isAnagram function; static boolean isAnagram(String 1, String 2)
-    static boolean isAnagram(String A, String B) {
+    public static boolean isAnagram(String A, String B) {
         // Make sure letter case does not matter; 1.toLowerCase = 1, 2.toLowerCase = 2
         A = A.toLowerCase();
         B = B.toLowerCase();
