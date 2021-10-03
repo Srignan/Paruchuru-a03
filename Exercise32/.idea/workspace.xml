@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26dcaa0c-f475-4dd9-9524-13229a1e93fa" name="Changes" comment="32 Complete">
-      <change afterPath="$PROJECT_DIR$/../Exercise24/src/test/java/Solution24Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise24/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise24/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise24/src/main/java/baseline/Solution24.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise24/src/main/java/baseline/Solution24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="26dcaa0c-f475-4dd9-9524-13229a1e93fa" name="Changes" comment="32 Complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
