@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26dcaa0c-f475-4dd9-9524-13229a1e93fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Records.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/src/test/java/Solution39Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise38/src/main/java/baseline/Solution38.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/src/main/java/baseline/Solution38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Records.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Solution39.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Solution39.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

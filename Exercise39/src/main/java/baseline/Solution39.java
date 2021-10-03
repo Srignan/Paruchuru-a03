@@ -5,13 +5,10 @@
 
 package baseline;
 
-/*
 public class Solution39 {
-
     public static void main(String[] args){
         Records run = new Records();
         run.makeDatabase();
         run.printByLastName();
     }
 }
-*/
