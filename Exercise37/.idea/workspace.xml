@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfd1d78-523b-4496-853c-97e74a222434" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baseline/PasswordGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Solution37Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/src/main/java/baseline/Solution39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise40/src/main/java/baseline/Solution40.java" afterDir="false" />
+    <list default="true" id="3dfd1d78-523b-4496-853c-97e74a222434" name="Changes" comment="37 Start">
       <change beforePath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise35/src/main/java/baseline/Solution35.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise35/src/main/java/baseline/Solution35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/PasswordGenerator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Solution37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Solution37Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Solution37Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise38/src/main/java/baseline/Solution38.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/src/main/java/baseline/Solution38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise39/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise40/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise40/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +78,56 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RunManager" selected="Gradle.Tests in 'Exercise37.test'">
+    <configuration name="Exercise37 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'Exercise37.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'Exercise37.test'" />
+        <item itemvalue="Gradle.Exercise37 [run]" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,6 +137,14 @@
       <option name="presentableId" value="Default" />
       <updated>1633200707890</updated>
     </task>
+    <task id="LOCAL-00001" summary="37 Start">
+      <created>1633236367197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633236367197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="37 Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="37 Start" />
   </component>
 </project>
