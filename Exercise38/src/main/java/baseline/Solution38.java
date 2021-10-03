@@ -10,7 +10,8 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 
-public class Solution38 {
+public class Solution38
+{
     /*
       public static Integer[] filterEvenNumbers(String[] list)
       {
@@ -26,6 +27,21 @@ public class Solution38 {
         return List;
 
      */
+    public static Integer[] filterEvenNumbers(String[] list)
+    {
+        ArrayList<Integer> newList = new ArrayList<>();
+
+        for (String s : list) {
+            int num = Integer.parseInt(s);
+            if (num % 2 == 0) {
+                newList.add(num);
+            }
+        }
+        Integer[] List = new Integer[newList.size()];
+        List = newList.toArray(List);
+
+        return List;
+    }
 
     /*
     public static void main(String args)
@@ -39,10 +55,31 @@ public class Solution38 {
 
         print("The even numbers are ");
 
+     */
+    public static void main(String[] args)
+    {
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Enter a list of numbers, separated by spaces: ");
+        String data = input.nextLine();
+
+        String[] list = data.split(" ");
+
+        Integer[] evenList = filterEvenNumbers(list);
+        System.out.print("The even numbers are ");
+        /*
         for(int i=0; i < evenList.length; i++)
             if(i < evenList.length-1)
                 System.out.print(evenList[i] + " ");
             else
+                System.out.print(evenList[i] + ".")
+        */
+        for(int i=0; i < evenList.length; i++)
+        {
+            if(i < evenList.length-1)
+                System.out.print(evenList[i] + " ");
+            else
                 System.out.print(evenList[i] + ".");
-     */
+        }
+    }
 }
