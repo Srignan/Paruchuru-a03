@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dde66e5-c25b-4c97-81e5-804528124ada" name="Changes" comment="34 Start">
+    <list default="true" id="8dde66e5-c25b-4c97-81e5-804528124ada" name="Changes" comment="34 Complete">
+      <change afterPath="$PROJECT_DIR$/../Exercise35/src/test/java/Solution35Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise36/src/test/java/Solution36Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Solution34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise35/src/main/java/baseline/Solution35.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise35/src/main/java/baseline/Solution35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise37/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise37/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" afterDir="false" />
     </list>

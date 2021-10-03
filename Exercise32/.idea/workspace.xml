@@ -5,11 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26dcaa0c-f475-4dd9-9524-13229a1e93fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercise36/src/test/java/Solution36Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise39/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise40/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise34/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise34/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise34/src/main/java/baseline/Solution34.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise34/src/main/java/baseline/Solution34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise35/src/main/java/baseline/Solution35.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise35/src/main/java/baseline/Solution35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise37/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise37/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" afterDir="false" />
     </list>

@@ -4,22 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc4ae743-3378-45f9-adf7-d7a8abc6e225" name="Changes" comment="">
+    <list default="true" id="a534e46c-f303-422e-a5e6-7d779e7cf961" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Exercise36/src/test/java/Solution36Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise39/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise40/.idea/gradle.xml" afterDir="false" />
@@ -38,7 +38,7 @@
       <change beforePath="$PROJECT_DIR$/../Exercise34/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise34/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise36/src/main/java/baseline/Solution36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise37/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise37/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +50,10 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1yxkghbLdpzfyaeNfwnYNBgJHOP" />
+  <component name="ProjectId" id="1yyjJ4hf8ljBR74AZTrHSkmGBi6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -74,11 +67,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc4ae743-3378-45f9-adf7-d7a8abc6e225" name="Changes" comment="" />
-      <created>1633200741634</created>
+      <changelist id="a534e46c-f303-422e-a5e6-7d779e7cf961" name="Changes" comment="" />
+      <created>1633230648322</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1633200741634</updated>
+      <updated>1633230648322</updated>
     </task>
     <servers />
   </component>
