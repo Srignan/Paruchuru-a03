@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26dcaa0c-f475-4dd9-9524-13229a1e93fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baseline/GuessingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Solution32Test.java" afterDir="false" />
+    <list default="true" id="26dcaa0c-f475-4dd9-9524-13229a1e93fa" name="Changes" comment="32 Start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/GuessingGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Solution32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Solution32Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Solution32Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise40/src/main/java/baseline/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise40/src/main/java/baseline/Records.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise40/src/test/java/Solution40Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise40/src/test/java/Solution40Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.Tests in 'Exercise32.test'">
     <configuration name="Exercise32 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -99,8 +99,30 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Tests in 'Exercise32.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Tests in 'Exercise32.test'" />
         <item itemvalue="Gradle.Exercise32 [run]" />
       </list>
     </recent_temporary>
@@ -114,6 +136,14 @@
       <option name="presentableId" value="Default" />
       <updated>1633148285369</updated>
     </task>
+    <task id="LOCAL-00001" summary="32 Start">
+      <created>1633297374933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633297374933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,5 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="32 Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="32 Start" />
   </component>
 </project>

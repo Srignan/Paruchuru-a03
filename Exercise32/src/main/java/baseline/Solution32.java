@@ -7,11 +7,9 @@ package baseline;
 import java.util.Scanner;
 
 public class Solution32{
-     /*   public static void main(String args[]){
+        public static void main(String[] args){
         GuessingGame playtime = new GuessingGame();
         System.out.println("Let's play Guess the Number!");
         playtime.game();
     }
 }
-
- */
