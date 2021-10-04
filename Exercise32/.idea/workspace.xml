@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26dcaa0c-f475-4dd9-9524-13229a1e93fa" name="Changes" comment="32 Complete" />
+    <list default="true" id="26dcaa0c-f475-4dd9-9524-13229a1e93fa" name="Changes" comment="32 Complete">
+      <change afterPath="$PROJECT_DIR$/../Exercise28/src/test/java/Solution28Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise29/src/test/java/Solution29Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/src/test/java/Solution30Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise33/src/test/java/Solution33Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise26/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise26/src/test/java/Solution26Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise26/src/test/java/Solution26Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise28/src/main/java/baseline/solution28.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise28/src/main/java/baseline/solution28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise29/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise29/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise29/src/main/java/baseline/solution29.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise29/src/main/java/baseline/solution29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise30/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise30/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise31/src/main/java/baseline/Solution31.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/src/main/java/baseline/Solution31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise31/src/test/java/Solution31Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/src/test/java/Solution31Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise33/src/main/java/baseline/Solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise33/src/main/java/baseline/Solution33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise34/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise34/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise35/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise35/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise38/src/test/java/Solution38Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/src/test/java/Solution38Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

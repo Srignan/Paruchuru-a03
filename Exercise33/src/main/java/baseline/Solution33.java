@@ -43,4 +43,4 @@ public class Solution33 {
     }
 }
 
-//Didn't create a test case for this as scan does not impact output and output is random print string out of four
+

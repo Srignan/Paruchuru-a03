@@ -8,7 +8,10 @@ import java.util.Scanner;
 
 public class Solution31 {
     public static void main(String[] args) {
+        HeartRate();
+    }
 
+        public static void HeartRate(){
         //int restingHR, age
         //scanner
         //restingHR = scanner.nextInt

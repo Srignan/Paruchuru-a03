@@ -5,4 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class Solution31Test {
 
-
+    @Test
+    void targetHeartRate() {
+      
+}

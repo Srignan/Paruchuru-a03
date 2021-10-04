@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a53b4-08ad-4f95-8931-c808ceb714bc" name="Changes" comment="29 Complete" />
+    <list default="true" id="a57a53b4-08ad-4f95-8931-c808ceb714bc" name="Changes" comment="29 Complete">
+      <change afterPath="$PROJECT_DIR$/../Exercise28/src/test/java/Solution28Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Solution29Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/src/test/java/Solution30Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise26/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise26/src/test/java/Solution26Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise26/src/test/java/Solution26Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise28/src/main/java/baseline/solution28.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise28/src/main/java/baseline/solution28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/solution29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/solution29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise30/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise30/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise31/src/main/java/baseline/Solution31.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/src/main/java/baseline/Solution31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise31/src/test/java/Solution31Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise31/src/test/java/Solution31Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise32/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise38/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise39/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +87,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.Solution29Test">
     <configuration name="Exercise29 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -93,9 +109,53 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Solution29Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Solution29Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'Exercise29.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Solution29Test" />
         <item itemvalue="Gradle.Exercise29 [run]" />
+        <item itemvalue="Gradle.Tests in 'Exercise29.test'" />
       </list>
     </recent_temporary>
   </component>
